@@ -17,19 +17,6 @@ Helper functions for formatting emissions, calculating percentage change, and ge
 * **Streamlit App (app.py)**
 Interactive UI for entering activities, viewing CO₂ results, AI tips, progress streaks, and earning badges.
 
-### 📂 **Project Structure**
-
-📦 Sustainability-Tracker
- ┣ 📜 app.py              # Streamlit UI
- ┣ 📜 co2_engine.py       # CO₂ calculation engine
- ┣ 📜 ai_tips.py          # AI eco-tips generator
- ┣ 📜 utils.py            # Helper utilities
- ┣ 📜 test_co2_engine.py  # Unit tests for CO₂ engine
- ┣ 📜 test_ai_tips.py     # Unit tests for AI tips
- ┣ 📜 test_utils.py       # Unit tests for utils
- ┣ 📜 test_app_module.py  # Tests for app logic
- ┗ 📜 history.csv         # User activity history (auto-generated)
-
 ### **Tech Stack**
 * **Python 3.12+**
 * **Streamlit** – UI framework
